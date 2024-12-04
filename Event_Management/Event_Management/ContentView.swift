@@ -112,6 +112,21 @@ struct ContentView: View {
             .edgesIgnoringSafeArea(.all)
         }
     }
+    
+    // Register Function
+        func register() {
+            isLoading = true
+            Auth.auth().createUser(withEmail: email, password: password) { result, error in
+                isLoading = false
+                if let error = error {
+                    self.errorMessage = error.localizedDescription
+                } else {
+                    self.errorMessage = "Registration successful!"
+                    self.email = ""
+                    self.password = ""
+                }
+            }
+        }
 
 #Preview {
     ContentView()
