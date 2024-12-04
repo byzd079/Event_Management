@@ -128,6 +128,21 @@ struct ContentView: View {
             }
         }
 
+    
+    // Login Function
+        func login() {
+            isLoading = true
+            Auth.auth().signIn(withEmail: email, password: password) { result, error in
+                isLoading = false
+                if let error = error {
+                    self.errorMessage = error.localizedDescription
+                } else {
+                    self.errorMessage = "Login successful!"
+                    userIsLoggedIn = true
+                }
+            }
+        }
+    }
 #Preview {
     ContentView()
 }
