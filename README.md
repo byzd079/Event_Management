@@ -2,8 +2,9 @@ Name : Dipesh
 Roll : 2007063
 
 <img width="2560" alt="Screenshot 2024-12-03 at 11 48 57 AM" src="https://github.com/user-attachments/assets/a5710dec-2b94-4c4e-bafe-1a25a864ba13">
-![Simulator Screenshot - iPhone 15 Pro - 2024-12-03 at 11 46 27](https://github.com/user-attachments/assets/fbc88ae6-0ba3-464e-9bb0-18a63942fffd)
-![Simulator Screenshot - iPhone 15 Pro - 2024-12-03 at 11 46 35](https://github.com/user-attachments/assets/2a8f223b-10ed-4c1c-8eca-efe4e9d2eb29)
+![Simulator Screenshot - iPhone 15 Pro - 2024-12-03 at 11 46 27](https://github.com/user-attachments/assets/efe9d593-4fe0-4990-8b09-6769b62adf44)
+![Simulator Screenshot - iPhone 15 Pro - 2024-12-03 at 11 46 35](https://github.com/user-attachments/assets/fcd609fd-817e-47c1-abfc-c9d5aacc45d6)
+
 
 Name : Nafis
 Roll : 2007075
